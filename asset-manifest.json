@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/groundplan/static/css/main.073c9b0a.css",
+    "main.js": "/groundplan/static/js/main.106d8c9b.js",
+    "static/js/787.dd57f361.chunk.js": "/groundplan/static/js/787.dd57f361.chunk.js",
+    "static/media/logo.svg": "/groundplan/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/groundplan/index.html",
+    "main.073c9b0a.css.map": "/groundplan/static/css/main.073c9b0a.css.map",
+    "main.106d8c9b.js.map": "/groundplan/static/js/main.106d8c9b.js.map",
+    "787.dd57f361.chunk.js.map": "/groundplan/static/js/787.dd57f361.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.106d8c9b.js"
+  ]
+}
